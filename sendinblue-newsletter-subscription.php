@@ -2,7 +2,7 @@
 /*
 Plugin Name: WooCommerce Sendinblue Newsletter Subscription
 Description: Allow customers to subscribe to your Sendinblue newsletters via the checkout page and trough Web Forms from a widget.
-Version: 1.0.0
+Version: 1.0.1
 Author: Codeinwp
 Author URI: http://codeinwp.com
 Requires at least: 3.5
@@ -12,14 +12,6 @@ Tested up to: 3.9
     License URI: http://www.gnu.org/licenses/gpl-3.0.html
 */
 
-/**
- * Required functions
- */
-if ( ! function_exists( 'woothemes_queue_update' ) )
-	require_once( 'woo-includes/woo-functions.php' );
-
-
-if (is_woocommerce_active()) {
 	/**
 	 * Localisation
 	 */
@@ -273,4 +265,3 @@ if (is_woocommerce_active()) {
 		global $woocommerce_sendinblue;
 		$woocommerce_sendinblue = new woocommerce_sendinblue();
 	}
-}
