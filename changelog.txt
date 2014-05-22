@@ -1,0 +1,4 @@
+*** SendinBlue Newsletter Subscription Changelog ***
+
+2014.05.21 - version 1.0
+ * First release
