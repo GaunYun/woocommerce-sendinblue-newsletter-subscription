@@ -2,11 +2,11 @@
 /*
 Plugin Name: WooCommerce Sendinblue Newsletter Subscription
 Description: Allow customers to subscribe to your Sendinblue newsletters via the checkout page and trough Web Forms from a widget.
-Version: 1.0.1
-Author: Codeinwp
+Version: 1.0.2
+Author: Codeinwp,neeraj_slit
 Author URI: http://codeinwp.com
 Requires at least: 3.5
-Tested up to: 3.9
+Tested up to: 4.1
 
     License: GNU General Public License v3.0
     License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -55,7 +55,7 @@ Tested up to: 3.9
 				$name = 'woo_sendinblue';
 				$label = __( 'SendinBlue', 'wc_sendinblue' );
 
-				echo '<a href="' . admin_url( 'admin.php?page=woocommerce&tab=' . $name ) . '" class="nav-tab ';
+				echo '<a href="' . admin_url( 'admin.php?page=wc-settings&tab=' . $name ) . '" class="nav-tab ';
 				if( $current_tab==$name ) echo 'nav-tab-active';
 				echo '">' . $label . '</a>';
 			} // End settings_menu()
