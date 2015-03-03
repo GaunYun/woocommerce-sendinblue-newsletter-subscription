@@ -1,5 +1,5 @@
 === WooCommerce SendinBlue Newsletter Subscription ===
-Contributors: codeinwp
+Contributors: SendinBlue,neeraj_slit
 Requires at least: 3.3
 Tested up to: 3.9.1
 Stable tag: 1.0.0
