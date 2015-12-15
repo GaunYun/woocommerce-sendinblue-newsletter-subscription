@@ -2,3 +2,7 @@
 
 2014.05.21 - version 1.0
  * First release
+
+2014.12.15 - version 1.1.0
+ * Improve transactional email and SMS campaign
+

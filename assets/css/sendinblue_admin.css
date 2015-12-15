@@ -1,0 +1,31 @@
+.form-ws-table{
+    border-collapse: collapse;
+    width: 100%;
+    clear: both;
+    margin: -10px;
+    position: relative;
+    padding-right: 160px;
+}
+.form-ws-table td {
+    padding-right: 20px;
+}
+.form-ws-table select{
+    width: 280px;
+}
+.form-ws-table .button{
+    margin-left: 12px;
+}
+.ws_select{
+    width: 25em;
+}
+.ws_textarea,.ws_sms_send_msg_desc{
+    min-height: 120px;
+    max-width: 800px;
+}
+.ws_contact_textarea{
+    min-height: 5em;
+    max-width: 800px;
+}
+.ws_date{
+    padding-bottom: 16px;
+}

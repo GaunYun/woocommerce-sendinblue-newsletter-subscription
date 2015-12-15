@@ -1,0 +1,439 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Sendinblue\n"
+"POT-Creation-Date: 2015-09-30 15:55+0700\n"
+"PO-Revision-Date: 2015-09-30 15:57+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.7\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: .;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-wc-sendinblue-settings.php:41
+#: includes/class-wc-sendinblue-sms.php:26
+msgid "Sendinblue"
+msgstr "Sendinblue"
+
+#: includes/class-wc-sendinblue-settings.php:145
+#: includes/class-wc-sendinblue-settings.php:246
+#: includes/class-wc-sendinblue-sms.php:201
+msgid "Sendinblue Newsletter Subscription Options"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:151
+#: includes/class-wc-sendinblue-sms.php:207
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:152
+#: includes/class-wc-sendinblue-sms.php:208
+msgid "Enable Sendinblue"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:159
+#: includes/class-wc-sendinblue-sms.php:215
+msgid "Subscribe Event"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:164
+#: includes/class-wc-sendinblue-sms.php:222
+msgid "Order Created"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:165
+#: includes/class-wc-sendinblue-sms.php:223
+msgid "Order Processing"
+msgstr "Order Processing"
+
+#: includes/class-wc-sendinblue-settings.php:166
+#: includes/class-wc-sendinblue-sms.php:224
+msgid "Order Completed"
+msgstr "Commande complète"
+
+#: includes/class-wc-sendinblue-settings.php:173
+#: includes/class-wc-sendinblue-sms.php:231
+msgid "Lists"
+msgstr "Listes"
+
+#: includes/class-wc-sendinblue-settings.php:178
+#: includes/class-wc-sendinblue-sms.php:237
+msgid "<p>All customers will be added to this list</p>"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:183
+#: includes/class-wc-sendinblue-sms.php:242
+msgid "Double Opt-In"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:184
+#: includes/class-wc-sendinblue-sms.php:243
+msgid "Enable Double Opt-In"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:185
+#: includes/class-wc-sendinblue-sms.php:244
+msgid ""
+"If enabled, customers will receive an email prompting them to confirm their "
+"subscription to the list above."
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:192
+#: includes/class-wc-sendinblue-sms.php:251
+msgid "Double Opt-In Field"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:193
+#: includes/class-wc-sendinblue-sms.php:252
+msgid "Display an Opt-In Field on Checkout"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:196
+#: includes/class-wc-sendinblue-sms.php:255
+msgid ""
+"If enabled, customers will be presented with a \"Opt-in\" checkbox during "
+"checkout and will only be added to the list above if they opt-in."
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:206
+#: includes/class-wc-sendinblue-sms.php:265
+msgid "Opt-In Field Label"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:207
+#: includes/class-wc-sendinblue-sms.php:266
+msgid ""
+"<p>Optional: customize the label displayed next to the opt-in checkbox</p>"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:215
+#: includes/class-wc-sendinblue-sms.php:274
+msgid "Opt-In Checkbox Default Status"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:216
+#: includes/class-wc-sendinblue-sms.php:275
+msgid "<p>The default state of the opt-in checkbox</p>"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:221
+#: includes/class-wc-sendinblue-sms.php:280
+msgid "Checked"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:222
+#: includes/class-wc-sendinblue-sms.php:281
+msgid "Unchecked"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:227
+#: includes/class-wc-sendinblue-sms.php:286
+msgid "Opt-In Checkbox Display Location"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:228
+#: includes/class-wc-sendinblue-sms.php:287
+msgid ""
+"<p>Where to display the opt-in checkbox on checkout page(under Billing info "
+"or Order info)</p>"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:233
+#: includes/class-wc-sendinblue-sms.php:292
+msgid "Billing"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:234
+#: includes/class-wc-sendinblue-sms.php:293
+msgid "Order"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:252
+#: includes/class-wc-sendinblue-sms.php:161
+msgid "API access Key"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:255
+msgid ""
+"<br>Enter your Sendinblue API key <a href=\"https://my.sendinblue.com/"
+"advanced/apikey/?"
+"utm_source=wordpress_plugin&utm_medium=plugin&utm_campaign=module_link\" "
+"target=\"_blank\">here</a>"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:263
+#, php-format
+msgid "If you want logout, please click %s. "
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:263
+#: includes/class-wc-sendinblue-sms.php:587
+msgid "Logout"
+msgstr ""
+
+#: includes/class-wc-sendinblue-settings.php:264
+#: includes/class-wc-sendinblue-sms.php:590
+msgid "Login"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:53
+msgid "General"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:54
+msgid "Subscription Options"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:55
+#: includes/class-wc-sendinblue-sms.php:306
+msgid "Send SMS after order confirmation"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:56
+msgid "Send SMS after order shipment"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:57
+msgid "Send SMS campaign"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:58
+msgid "SMS credits notification"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:154
+#: includes/class-wc-sendinblue-sms.php:180
+msgid "WooCommerce Sendinblue Integration"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:156
+msgid "Activate your account with your API key"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:165
+msgid ""
+"<br>Enter your Sendinblue API key from <a href=\"https://my.sendinblue.com/"
+"advanced/apikey/?"
+"utm_source=wordpress_plugin&utm_medium=plugin&utm_campaign=module_link\" "
+"target=\"_blank\">here</a>"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:187
+#, php-format
+msgid "<i>To buy more credits, please click %s. </i>"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:182
+msgid ""
+"<b>You are currently logged in as :</b>\n"
+"                        <div id=\"ws_info_wrap\" style=\"border: 1px solid "
+"#bbb;padding-left:20px;\">\n"
+"                        <p style=\"font-size: 14px;\">"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:311
+#: includes/class-wc-sendinblue-sms.php:378
+#: includes/class-wc-sendinblue-sms.php:445
+msgid "Send SMS"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:317
+#: includes/class-wc-sendinblue-sms.php:384
+#: includes/class-wc-sendinblue-sms.php:451
+#: includes/class-wc-sendinblue-sms.php:551
+msgid "Yes"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:318
+#: includes/class-wc-sendinblue-sms.php:385
+#: includes/class-wc-sendinblue-sms.php:452
+#: includes/class-wc-sendinblue-sms.php:552
+msgid "No"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:333
+#: includes/class-wc-sendinblue-sms.php:400
+#: includes/class-wc-sendinblue-sms.php:494
+msgid "Sender"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:334
+#: includes/class-wc-sendinblue-sms.php:401
+#: includes/class-wc-sendinblue-sms.php:495
+msgid ""
+"This field allows you to customize the SMS sender. The number of characters "
+"is limited to 11 alphanumeric characters. You can't configure your Sender "
+"with a phone number."
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:336
+#: includes/class-wc-sendinblue-sms.php:403
+#: includes/class-wc-sendinblue-sms.php:497
+msgid "Number of characters left:&nbsp;"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:343
+#: includes/class-wc-sendinblue-sms.php:410
+#: includes/class-wc-sendinblue-sms.php:504
+msgid "Message"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:344
+#: includes/class-wc-sendinblue-sms.php:411
+#: includes/class-wc-sendinblue-sms.php:505
+msgid ""
+" Create the content of your SMS with the limit of 160-character.Beyond 160 "
+"characters, it will be counted as a second SMS. Thus, if you write  SMS of "
+"240 characters, it will be recorded using two SMS."
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:346
+#: includes/class-wc-sendinblue-sms.php:413
+#: includes/class-wc-sendinblue-sms.php:507
+msgid ""
+"<i>Number of SMS used: % &nbsp;&nbsp;&nbsp;Number of characters left: % "
+"&nbsp;&nbsp;&nbsp;Attention line break is counted as a single character. </i>"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:353
+#: includes/class-wc-sendinblue-sms.php:420
+#: includes/class-wc-sendinblue-sms.php:521
+msgid "Sending a test SMS will be deducted from your SMS credits."
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:359
+#: includes/class-wc-sendinblue-sms.php:426
+#: includes/class-wc-sendinblue-sms.php:527
+msgid "Send a test SMS"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:360
+#: includes/class-wc-sendinblue-sms.php:427
+#: includes/class-wc-sendinblue-sms.php:528
+msgid ""
+"The phone number should be in this form: 0033663309741 for this France "
+"mobile 06 63 30 97 41 (0033 is France prefix)"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:373
+msgid "Send a SMS after order shipment"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:440
+msgid "Send a campaign SMS"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:464
+msgid "To"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:470
+msgid "A single contact"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:471
+msgid "All my WordPress customers"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:472
+msgid "Only subscribed customers"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:486
+msgid "Phone number of the contact"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:487
+msgid ""
+" The phone number should be in this form: 0033663309741 for this France "
+"mobile 06 63 30 97 41 (0033 is France prefix)"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:513 woocommerce-sendinblue.php:198
+msgid "Send the campaign"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:540
+msgid ""
+"You want to be notified by e-mail when you do not have enough SMS credits?"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:567
+msgid "Email"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:574
+msgid "Limit"
+msgstr ""
+
+#: includes/class-wc-sendinblue-sms.php:575
+msgid "Alert threshold for remaining credits"
+msgstr ""
+
+#: woocommerce-sendinblue.php:26
+#, php-format
+msgid ""
+"%sWooCommerce SendinBlue is inactive.%s This version requires WooCommerce "
+"2.1 or newer. Please %supdate WooCommerce to version 2.1 or newer%s"
+msgstr ""
+
+#: woocommerce-sendinblue.php:184
+msgid ""
+"If you want to personalize the SMS, you can use the variables below:<br>\\\n"
+"                        - For first name use {first_name}<br>\\\n"
+"                        - For last name use {last_name}<br>\\\n"
+"                        - For order price use {order_price}<br>\\\n"
+"                        - For order date use {order_date}"
+msgstr ""
+
+#: woocommerce-sendinblue.php:190
+msgid ""
+"If you want to personalize the SMS, you can use the variables below:<br>\\\n"
+"                        - For first name use {first_name}<br>\\\n"
+"                        - For last name use {last_name}"
+msgstr ""
+
+#: woocommerce-sendinblue.php:197
+msgid "Send"
+msgstr ""
+
+#: woocommerce-sendinblue.php:372
+msgid "WooCommerce SendinBlue error: "
+msgstr ""
+
+#: woocommerce-sendinblue.php:644
+msgid "Please confirm subscription"
+msgstr ""
+
+#: woocommerce-sendinblue.php:761
+msgid "Thank you for subscribing"
+msgstr ""
+
+#: woocommerce-sendinblue.php:781
+msgid "You have just subscribed to the newsletter of "
+msgstr ""
+
+#: woocommerce-sendinblue.php:783
+msgid "-SendinBlue"
+msgstr ""
+
+#: woocommerce-sendinblue.php:1114
+msgid "Hello! This message has been sent using SendinBlue"
+msgstr ""
+
+#: woocommerce-sendinblue.php:1163
+msgid "Please install curl on site to use sendinblue plugin."
+msgstr ""
+
+#: woocommerce-sendinblue.php:1165
+msgid "Curl error."
+msgstr ""
+
+#: woocommerce-sendinblue.php:1196
+msgid "Please input correct information."
+msgstr ""
